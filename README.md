@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Raja-fn/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Raja-fn/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Raja-fn/DSA/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Raja-fn/DSA/tree/master/0027-remove-element) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Raja-fn/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/Raja-fn/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Raja-fn/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Raja-fn/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -94,8 +96,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Raja-fn/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Raja-fn/DSA/tree/master/0005-longest-palindromic-substring) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Raja-fn/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Raja-fn/DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
